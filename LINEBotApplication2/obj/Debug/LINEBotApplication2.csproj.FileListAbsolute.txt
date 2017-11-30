@@ -70,3 +70,4 @@ C:\Users\kanou\Source\Repos\LINEBotApplication2\LINEBotApplication2\bin\System.S
 C:\Users\kanou\Source\Repos\LINEBotApplication2\LINEBotApplication2\bin\System.Security.Cryptography.Encoding.dll
 C:\Users\kanou\Source\Repos\LINEBotApplication2\LINEBotApplication2\bin\System.Security.Cryptography.Primitives.dll
 C:\Users\kanou\Source\Repos\LINEBotApplication2\LINEBotApplication2\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\kanou\Source\Repos\LINEBotApplication2\LINEBotApplication2\obj\Debug\LINEBotApplication2.csprojResolveAssemblyReference.cache
