@@ -188,7 +188,7 @@ namespace LINEBotApplication2.Controllers
             else if (textMessage.Text.ToLower() == "テニスコート予約したい" || textMessage.Text.ToLower() == "yes")
             {
                 //replyMessage = new TextMessage("どこのコートを予約しますか？");//最初にメッセを出したかったが動作しない
-                string aobayamaimg = @"~\Images\aobayama.PNG";//青葉山庭球場の画像パス
+                string aobayamaimg = @"~\Images\aobayama.PNG";//青葉山庭球場の画像パスあああああ
                 string tyoumeigaokaimg = @"~\Images\tyoumeigaoka.PNG";
                 List<TemplateColumn> columns = new List<TemplateColumn>();
                 List<TemplateAction> actions1 = new List<TemplateAction>();
